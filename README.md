@@ -1,2 +1,2 @@
-# illacceptnothing
-The project where all pull requests are refused.
+# illacceptbasicallynothing
+The project where almost all pull requests are refused.
